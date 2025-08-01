@@ -14,7 +14,7 @@ To stop run `stop-rabbitmq.cmd`
 
 To manage go to `http://<your-local-address>:15672`
 
-To connect from your apps use address `http://<your-local-address>:5672`
+To connect from your apps use address `<your-local-address>:5672`
 
 
 
